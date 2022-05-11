@@ -1,0 +1,39 @@
+#todotable{
+    display: none;
+    padding-right: 2%;
+    padding-left: 2%;
+    margin-top: 3%;
+    padding-top: 2%;
+    
+}
+#i{
+    
+   font-size: 35px;
+   width: 100px;
+}
+#d{
+    
+    font-size: 35px;
+    width: 4000px;
+ }
+ #s{
+    
+    font-size: 35px;
+    width: 100px;
+ }
+ #button{
+    background-color: darkorchid;
+    font-size: 30px;
+    display: inline-block;
+    text-align: center;
+    padding: 15px 32px;
+    color: antiquewhite;
+   
+ }
+ .jumbotron{
+ color:rgb(51, 189, 189);
+ background-color: aquamarine;
+ margin-top: 70px;
+ 
+ }
+ 
