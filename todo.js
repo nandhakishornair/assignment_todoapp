@@ -99,8 +99,9 @@ function check(){
       
     })
     p.then( (message)=>{
-           alert(message);
+        swal("Good job!",message , "success");
     })
 
 }
+
 
