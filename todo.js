@@ -94,7 +94,7 @@ function table(response){
 function check(){
     let p=new Promise((resolve,reject)=>{
         if(count>=5) {
-            resolve(" 5 task complete")
+            resolve(" todays task complete")
         }
       
     })
